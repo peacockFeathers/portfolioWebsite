@@ -16,7 +16,7 @@
     height: 250px;}
     
 ul {
-    width: 670px;
+    width: 850px;
     padding: 15px;
     margin: 0px auto 0px auto;
     border-top: 2px solid #000;
@@ -42,3 +42,8 @@ a {
 a:hover, a.on {
     color: #cc3333;
     background-color: #ffffff;}
+
+img.centred {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
