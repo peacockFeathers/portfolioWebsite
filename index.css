@@ -5,7 +5,7 @@
     min-width: 720px;
     margin: 10px auto 10px auto;
     padding: 30px;
-    border: 4px double #000;
+    border: 3px double #000;
     background-color: #ffffff;}
 
 #logo {
@@ -16,7 +16,7 @@
     height: 250px;}
     
 ul {
-    width: 570px;
+    width: 670px;
     padding: 15px;
     margin: 0px auto 0px auto;
     border-top: 2px solid #000;
