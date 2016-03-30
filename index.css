@@ -43,7 +43,11 @@ a:hover, a.on {
     color: #cc3333;
     background-color: #ffffff;}
 
+.portrait{
+    text-align:center;}
+
+.landscape{
+    text-align:center;}
+
 img.centred {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;}
+    display:inline-block;}
